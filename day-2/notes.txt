@@ -1,0 +1,25 @@
+Day 2 Notes
+
+Topics Learned:
+- input()
+- Variables with user input
+- Data types
+- int()
+- float()
+- String concatenation
+- String repetition
+- Interactive programs
+- Basic debugging
+
+Projects Completed:
+- Student Information System
+- Interactive Calculator
+
+What I Learned:
+input() always returns a string. We use int() or float() to convert it into the required data type before performing calculations.
+
+Challenges:
+Initially I thought input() returned numbers directly, but I learned that it returns strings and needs type conversion.
+
+Next Goal:
+Learn decision making using if-else statements.

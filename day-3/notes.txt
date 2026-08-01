@@ -1,0 +1,26 @@
+Day 3 Notes
+
+Topics Learned:
+- Comparison Operators
+- Boolean Values
+- if statement
+- else statement
+- elif statement
+- Boundary Values
+- Syntax Errors
+- Indentation
+
+Projects:
+- Voting Eligibility Checker
+- Grade Calculator
+
+Key Learnings:
+- Python executes only the first True condition in an if-elif-else chain.
+- Processing data first and printing later makes programs cleaner.
+- Boundary values should always be tested.
+
+Difficult Concept:
+- Understanding boundary conditions.
+
+Tomorrow:
+- Logical operators (and, or, not)
