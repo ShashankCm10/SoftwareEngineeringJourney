@@ -5,9 +5,12 @@ if PIN==pin:
     amount=int(input("enter the amount to withdraw"))
     if amount<=0:
         print("invalid amount")
-    if amount>BALANCE:
+    elif amount>BALANCE:
         print("insufficient balance")
     else:
         print("please collect your cash")
+        BALANCE=BALANCE-amount
+        print("your remaining balance is",BALANCE)
 else:
     print("invalid pin")            
+    
